@@ -9,5 +9,3 @@ This repository  includes all python files (8 in total) used for the project (be
 - Folium
 - DASH
 - ML prediction
-
-It also includes the powerpoint file for the final project.
